@@ -36,7 +36,8 @@
 <br />
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priyanshukumar1&repo=github-readme-stats)](https://github.com/Priyanshukumar1/github-readme-stats)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshukumar1&show_icons=true&theme=radical)
+
 
 
 
