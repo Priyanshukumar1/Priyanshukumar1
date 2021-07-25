@@ -1,4 +1,4 @@
-### Hi there, I'm priyanshu  [Github] 👋
+### Hi there, I'm priyanshu 👋
 
 ## I'm a student, programmer, Developer, and Quick learner !!
 
@@ -46,5 +46,4 @@
 
 
 
-[Github]: https://github.com/Priyanshukumar1
 [linkedin]: https://www.linkedin.com/in/the-priyanshu-kumar/
